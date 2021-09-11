@@ -1,0 +1,1105 @@
+,country,user_type,year,euro/kwh
+0,European Union - 27 countries (from 2020),medium_size_households,2009,0.0895
+1,European Union - 28 countries (2013-2020),medium_size_households,2009,:
+2,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",medium_size_households,2009,0.0913
+3,Euro area - 19 countries  (from 2015),medium_size_households,2009,:
+4,Belgium,medium_size_households,2009,0.1026
+5,Bulgaria,medium_size_households,2009,0.0639
+6,Czechia,medium_size_households,2009,0.1057
+7,Denmark,medium_size_households,2009,0.0610
+8,Germany (until 1990 former territory of the FRG),medium_size_households,2009,0.0975
+9,Estonia,medium_size_households,2009,0.0587
+10,Ireland,medium_size_households,2009,0.1206
+11,Greece,medium_size_households,2009,0.0948
+12,Spain,medium_size_households,2009,0.1098
+13,France,medium_size_households,2009,0.0667
+14,Croatia,medium_size_households,2009,0.0853
+15,Italy,medium_size_households,2009,:
+16,Cyprus,medium_size_households,2009,0.1164
+17,Latvia,medium_size_households,2009,0.0896
+18,Lithuania,medium_size_households,2009,0.0924
+19,Luxembourg,medium_size_households,2009,0.1096
+20,Hungary,medium_size_households,2009,0.1221
+21,Malta,medium_size_households,2009,0.1506
+22,Netherlands,medium_size_households,2009,0.0962
+23,Austria,medium_size_households,2009,0.0991
+24,Poland,medium_size_households,2009,0.0857
+25,Portugal,medium_size_households,2009,0.0919
+26,Romania,medium_size_households,2009,0.0811
+27,Slovenia,medium_size_households,2009,0.0987
+28,Slovakia,medium_size_households,2009,0.1416
+29,Finland,medium_size_households,2009,0.0663
+30,Sweden,medium_size_households,2009,0.0662
+31,Iceland,medium_size_households,2009,:
+32,Liechtenstein,medium_size_households,2009,:
+33,Norway,medium_size_households,2009,0.0669
+34,Switzerland,medium_size_households,2009,:
+35,United Kingdom,medium_size_households,2009,0.1077
+36,Montenegro,medium_size_households,2009,:
+37,North Macedonia,medium_size_households,2009,:
+38,Albania,medium_size_households,2009,:
+39,Serbia,medium_size_households,2009,:
+40,Turkey,medium_size_households,2009,0.0754
+41,Bosnia and Herzegovina,medium_size_households,2009,:
+42,Kosovo (under United Nations Security Council Resolution 1244/99),medium_size_households,2009,:
+43,Moldova,medium_size_households,2009,:
+44,Ukraine,medium_size_households,2009,:
+45,Georgia,medium_size_households,2009,:
+46,European Union - 27 countries (from 2020),non-household,2009,0.1670
+47,European Union - 28 countries (2013-2020),non-household,2009,:
+48,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",non-household,2009,0.1727
+49,Euro area - 19 countries  (from 2015),non-household,2009,:
+50,Belgium,non-household,2009,0.1916
+51,Bulgaria,non-household,2009,0.0823
+52,Czechia,non-household,2009,0.1455
+53,Denmark,non-household,2009,0.2699
+54,Germany (until 1990 former territory of the FRG),non-household,2009,0.2282
+55,Estonia,non-household,2009,0.0922
+56,Ireland,non-household,2009,0.2030
+57,Greece,non-household,2009,0.1154
+58,Spain,non-household,2009,0.1577
+59,France,non-household,2009,0.1206
+60,Croatia,non-household,2009,0.1151
+61,Italy,non-household,2009,0.2098
+62,Cyprus,non-household,2009,0.1558
+63,Latvia,non-household,2009,0.1052
+64,Lithuania,non-household,2009,0.0951
+65,Luxembourg,non-household,2009,0.1882
+66,Hungary,non-household,2009,0.1483
+67,Malta,non-household,2009,0.1708
+68,Netherlands,non-household,2009,0.1979
+69,Austria,non-household,2009,0.1909
+70,Poland,non-household,2009,0.1131
+71,Portugal,non-household,2009,0.1508
+72,Romania,non-household,2009,0.0976
+73,Slovenia,non-household,2009,0.1346
+74,Slovakia,non-household,2009,0.1540
+75,Finland,non-household,2009,0.1296
+76,Sweden,non-household,2009,0.1602
+77,Iceland,non-household,2009,:
+78,Liechtenstein,non-household,2009,:
+79,Norway,non-household,2009,0.1565
+80,Switzerland,non-household,2009,:
+81,United Kingdom,non-household,2009,0.1466
+82,Montenegro,non-household,2009,:
+83,North Macedonia,non-household,2009,:
+84,Albania,non-household,2009,:
+85,Serbia,non-household,2009,:
+86,Turkey,non-household,2009,0.1144
+87,Bosnia and Herzegovina,non-household,2009,:
+88,Kosovo (under United Nations Security Council Resolution 1244/99),non-household,2009,:
+89,Moldova,non-household,2009,:
+90,Ukraine,non-household,2009,:
+91,Georgia,non-household,2009,:
+92,European Union - 27 countries (from 2020),medium_size_households,2010,0.0880
+93,European Union - 28 countries (2013-2020),medium_size_households,2010,:
+94,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",medium_size_households,2010,0.0880
+95,Euro area - 19 countries  (from 2015),medium_size_households,2010,:
+96,Belgium,medium_size_households,2010,0.0943
+97,Bulgaria,medium_size_households,2010,0.0639
+98,Czechia,medium_size_households,2010,0.1022
+99,Denmark,medium_size_households,2010,0.0721
+100,Germany (until 1990 former territory of the FRG),medium_size_households,2010,0.0921
+101,Estonia,medium_size_households,2010,0.0573
+102,Ireland,medium_size_households,2010,0.1118
+103,Greece,medium_size_households,2010,0.0855
+104,Spain,medium_size_households,2010,0.1110
+105,France,medium_size_households,2010,0.0687
+106,Croatia,medium_size_households,2010,0.0932
+107,Italy,medium_size_households,2010,:
+108,Cyprus,medium_size_households,2010,0.1483
+109,Latvia,medium_size_households,2010,0.0890
+110,Lithuania,medium_size_households,2010,0.0991
+111,Luxembourg,medium_size_households,2010,0.0956
+112,Hungary,medium_size_households,2010,0.1037
+113,Malta,medium_size_households,2010,0.1720
+114,Netherlands,medium_size_households,2010,0.0863
+115,Austria,medium_size_households,2010,0.0922
+116,Poland,medium_size_households,2010,0.0929
+117,Portugal,medium_size_households,2010,0.0896
+118,Romania,medium_size_households,2010,0.0850
+119,Slovenia,medium_size_households,2010,0.0917
+120,Slovakia,medium_size_households,2010,0.1161
+121,Finland,medium_size_households,2010,0.0667
+122,Sweden,medium_size_households,2010,0.0800
+123,Iceland,medium_size_households,2010,:
+124,Liechtenstein,medium_size_households,2010,:
+125,Norway,medium_size_households,2010,0.0893
+126,Switzerland,medium_size_households,2010,:
+127,United Kingdom,medium_size_households,2010,0.0947
+128,Montenegro,medium_size_households,2010,:
+129,North Macedonia,medium_size_households,2010,:
+130,Albania,medium_size_households,2010,:
+131,Serbia,medium_size_households,2010,:
+132,Turkey,medium_size_households,2010,0.0863
+133,Bosnia and Herzegovina,medium_size_households,2010,0.0622
+134,Kosovo (under United Nations Security Council Resolution 1244/99),medium_size_households,2010,:
+135,Moldova,medium_size_households,2010,:
+136,Ukraine,medium_size_households,2010,:
+137,Georgia,medium_size_households,2010,:
+138,European Union - 27 countries (from 2020),non-household,2010,0.1725
+139,European Union - 28 countries (2013-2020),non-household,2010,:
+140,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",non-household,2010,0.1761
+141,Euro area - 19 countries  (from 2015),non-household,2010,:
+142,Belgium,non-household,2010,0.1959
+143,Bulgaria,non-household,2010,0.0813
+144,Czechia,non-household,2010,0.1496
+145,Denmark,non-household,2010,0.2670
+146,Germany (until 1990 former territory of the FRG),non-household,2010,0.2375
+147,Estonia,non-household,2010,0.0970
+148,Ireland,non-household,2010,0.1804
+149,Greece,non-household,2010,0.1181
+150,Spain,non-household,2010,0.1728
+151,France,non-household,2010,0.1283
+152,Croatia,non-household,2010,0.1151
+153,Italy,non-household,2010,0.1965
+154,Cyprus,non-household,2010,0.1858
+155,Latvia,non-household,2010,0.1049
+156,Lithuania,non-household,2010,0.1156
+157,Luxembourg,non-household,2010,0.1726
+158,Hungary,non-household,2010,0.1701
+159,Malta,non-household,2010,0.1647
+160,Netherlands,non-household,2010,0.1767
+161,Austria,non-household,2010,0.1967
+162,Poland,non-household,2010,0.1341
+163,Portugal,non-household,2010,0.1584
+164,Romania,non-household,2010,0.1031
+165,Slovenia,non-household,2010,0.1401
+166,Slovakia,non-household,2010,0.1520
+167,Finland,non-household,2010,0.1325
+168,Sweden,non-household,2010,0.1839
+169,Iceland,non-household,2010,:
+170,Liechtenstein,non-household,2010,:
+171,Norway,non-household,2010,0.2027
+172,Switzerland,non-household,2010,:
+173,United Kingdom,non-household,2010,0.1386
+174,Montenegro,non-household,2010,:
+175,North Macedonia,non-household,2010,:
+176,Albania,non-household,2010,:
+177,Serbia,non-household,2010,:
+178,Turkey,non-household,2010,0.1342
+179,Bosnia and Herzegovina,non-household,2010,0.0741
+180,Kosovo (under United Nations Security Council Resolution 1244/99),non-household,2010,:
+181,Moldova,non-household,2010,:
+182,Ukraine,non-household,2010,:
+183,Georgia,non-household,2010,:
+184,European Union - 27 countries (from 2020),medium_size_households,2011,0.0925
+185,European Union - 28 countries (2013-2020),medium_size_households,2011,:
+186,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",medium_size_households,2011,0.0927
+187,Euro area - 19 countries  (from 2015),medium_size_households,2011,:
+188,Belgium,medium_size_households,2011,0.0977
+189,Bulgaria,medium_size_households,2011,0.0638
+190,Czechia,medium_size_households,2011,0.1097
+191,Denmark,medium_size_households,2011,0.0784
+192,Germany (until 1990 former territory of the FRG),medium_size_households,2011,0.0900
+193,Estonia,medium_size_households,2011,0.0616
+194,Ireland,medium_size_households,2011,0.1121
+195,Greece,medium_size_households,2011,0.0917
+196,Spain,medium_size_households,2011,0.1082
+197,France,medium_size_households,2011,0.0722
+198,Croatia,medium_size_households,2011,0.0900
+199,Italy,medium_size_households,2011,0.1145
+200,Cyprus,medium_size_households,2011,0.1605
+201,Latvia,medium_size_households,2011,0.0984
+202,Lithuania,medium_size_households,2011,0.1045
+203,Luxembourg,medium_size_households,2011,0.0960
+204,Hungary,medium_size_households,2011,0.0978
+205,Malta,medium_size_households,2011,0.1780
+206,Netherlands,medium_size_households,2011,0.0837
+207,Austria,medium_size_households,2011,0.0917
+208,Poland,medium_size_households,2011,0.0963
+209,Portugal,medium_size_households,2011,0.0903
+210,Romania,medium_size_households,2011,0.0803
+211,Slovenia,medium_size_households,2011,0.0889
+212,Slovakia,medium_size_households,2011,0.1233
+213,Finland,medium_size_households,2011,0.0686
+214,Sweden,medium_size_households,2011,0.0887
+215,Iceland,medium_size_households,2011,:
+216,Liechtenstein,medium_size_households,2011,:
+217,Norway,medium_size_households,2011,0.0962
+218,Switzerland,medium_size_households,2011,:
+219,United Kingdom,medium_size_households,2011,0.0939
+220,Montenegro,medium_size_households,2011,0.0617
+221,North Macedonia,medium_size_households,2011,:
+222,Albania,medium_size_households,2011,:
+223,Serbia,medium_size_households,2011,:
+224,Turkey,medium_size_households,2011,0.0760
+225,Bosnia and Herzegovina,medium_size_households,2011,0.0613
+226,Kosovo (under United Nations Security Council Resolution 1244/99),medium_size_households,2011,:
+227,Moldova,medium_size_households,2011,:
+228,Ukraine,medium_size_households,2011,:
+229,Georgia,medium_size_households,2011,:
+230,European Union - 27 countries (from 2020),non-household,2011,0.1858
+231,European Union - 28 countries (2013-2020),non-household,2011,:
+232,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",non-household,2011,0.1893
+233,Euro area - 19 countries  (from 2015),non-household,2011,:
+234,Belgium,non-household,2011,0.2136
+235,Bulgaria,non-household,2011,0.0826
+236,Czechia,non-household,2011,0.1659
+237,Denmark,non-household,2011,0.2908
+238,Germany (until 1990 former territory of the FRG),non-household,2011,0.2528
+239,Estonia,non-household,2011,0.0973
+240,Ireland,non-household,2011,0.1901
+241,Greece,non-household,2011,0.1250
+242,Spain,non-household,2011,0.1981
+243,France,non-household,2011,0.1383
+244,Croatia,non-household,2011,0.1137
+245,Italy,non-household,2011,0.1987
+246,Cyprus,non-household,2011,0.2050
+247,Latvia,non-household,2011,0.1168
+248,Lithuania,non-household,2011,0.1214
+249,Luxembourg,non-household,2011,0.1678
+250,Hungary,non-household,2011,0.1682
+251,Malta,non-household,2011,0.1651
+252,Netherlands,non-household,2011,0.1802
+253,Austria,non-household,2011,0.1986
+254,Poland,non-household,2011,0.1471
+255,Portugal,non-household,2011,0.1654
+256,Romania,non-household,2011,0.1082
+257,Slovenia,non-household,2011,0.1441
+258,Slovakia,non-household,2011,0.1682
+259,Finland,non-household,2011,0.1540
+260,Sweden,non-household,2011,0.2092
+261,Iceland,non-household,2011,:
+262,Liechtenstein,non-household,2011,:
+263,Norway,non-household,2011,0.2133
+264,Switzerland,non-household,2011,:
+265,United Kingdom,non-household,2011,0.1433
+266,Montenegro,non-household,2011,0.0870
+267,North Macedonia,non-household,2011,:
+268,Albania,non-household,2011,0.1152
+269,Serbia,non-household,2011,:
+270,Turkey,non-household,2011,0.1218
+271,Bosnia and Herzegovina,non-household,2011,0.0745
+272,Kosovo (under United Nations Security Council Resolution 1244/99),non-household,2011,:
+273,Moldova,non-household,2011,:
+274,Ukraine,non-household,2011,:
+275,Georgia,non-household,2011,:
+276,European Union - 27 countries (from 2020),medium_size_households,2012,0.0943
+277,European Union - 28 countries (2013-2020),medium_size_households,2012,:
+278,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",medium_size_households,2012,0.0965
+279,Euro area - 19 countries  (from 2015),medium_size_households,2012,:
+280,Belgium,medium_size_households,2012,0.0950
+281,Bulgaria,medium_size_households,2012,0.0684
+282,Czechia,medium_size_households,2012,0.1028
+283,Denmark,medium_size_households,2012,0.0645
+284,Germany (until 1990 former territory of the FRG),medium_size_households,2012,0.0895
+285,Estonia,medium_size_households,2012,0.0647
+286,Ireland,medium_size_households,2012,0.1293
+287,Greece,medium_size_households,2012,0.1006
+288,Spain,medium_size_households,2012,0.1155
+289,France,medium_size_households,2012,0.0809
+290,Croatia,medium_size_households,2012,0.0892
+291,Italy,medium_size_households,2012,0.1193
+292,Cyprus,medium_size_households,2012,0.2171
+293,Latvia,medium_size_households,2012,0.1103
+294,Lithuania,medium_size_households,2012,0.1135
+295,Luxembourg,medium_size_households,2012,0.1007
+296,Hungary,medium_size_households,2012,0.0888
+297,Malta,medium_size_households,2012,0.1790
+298,Netherlands,medium_size_households,2012,0.0824
+299,Austria,medium_size_households,2012,0.0906
+300,Poland,medium_size_households,2012,0.0869
+301,Portugal,medium_size_households,2012,0.1050
+302,Romania,medium_size_households,2012,0.0833
+303,Slovenia,medium_size_households,2012,0.0872
+304,Slovakia,medium_size_households,2012,0.1273
+305,Finland,medium_size_households,2012,0.0684
+306,Sweden,medium_size_households,2012,0.0804
+307,Iceland,medium_size_households,2012,:
+308,Liechtenstein,medium_size_households,2012,:
+309,Norway,medium_size_households,2012,0.0774
+310,Switzerland,medium_size_households,2012,:
+311,United Kingdom,medium_size_households,2012,0.1095
+312,Montenegro,medium_size_households,2012,0.0677
+313,North Macedonia,medium_size_households,2012,:
+314,Albania,medium_size_households,2012,:
+315,Serbia,medium_size_households,2012,:
+316,Turkey,medium_size_households,2012,0.0831
+317,Bosnia and Herzegovina,medium_size_households,2012,0.0646
+318,Kosovo (under United Nations Security Council Resolution 1244/99),medium_size_households,2012,:
+319,Moldova,medium_size_households,2012,:
+320,Ukraine,medium_size_households,2012,:
+321,Georgia,medium_size_households,2012,:
+322,European Union - 27 countries (from 2020),non-household,2012,0.1916
+323,European Union - 28 countries (2013-2020),non-household,2012,:
+324,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",non-household,2012,0.1972
+325,Euro area - 19 countries  (from 2015),non-household,2012,:
+326,Belgium,non-household,2012,0.2327
+327,Bulgaria,non-household,2012,0.0846
+328,Czechia,non-household,2012,0.1664
+329,Denmark,non-household,2012,0.2997
+330,Germany (until 1990 former territory of the FRG),non-household,2012,0.2595
+331,Estonia,non-household,2012,0.1096
+332,Ireland,non-household,2012,0.2155
+333,Greece,non-household,2012,0.1391
+334,Spain,non-household,2012,0.2190
+335,France,non-household,2012,0.1392
+336,Croatia,non-household,2012,0.1208
+337,Italy,non-household,2012,0.2132
+338,Cyprus,non-household,2012,0.2781
+339,Latvia,non-household,2012,0.1382
+340,Lithuania,non-household,2012,0.1260
+341,Luxembourg,non-household,2012,0.1696
+342,Hungary,non-household,2012,0.1549
+343,Malta,non-household,2012,0.1673
+344,Netherlands,non-household,2012,0.1850
+345,Austria,non-household,2012,0.1975
+346,Poland,non-household,2012,0.1418
+347,Portugal,non-household,2012,0.1993
+348,Romania,non-household,2012,0.1050
+349,Slovenia,non-household,2012,0.1542
+350,Slovakia,non-household,2012,0.1716
+351,Finland,non-household,2012,0.1549
+352,Sweden,non-household,2012,0.2027
+353,Iceland,non-household,2012,0.1110
+354,Liechtenstein,non-household,2012,:
+355,Norway,non-household,2012,0.1881
+356,Switzerland,non-household,2012,:
+357,United Kingdom,non-household,2012,0.1682
+358,Montenegro,non-household,2012,0.0910
+359,North Macedonia,non-household,2012,:
+360,Albania,non-household,2012,0.1163
+361,Serbia,non-household,2012,:
+362,Turkey,non-household,2012,0.1310
+363,Bosnia and Herzegovina,non-household,2012,0.0798
+364,Kosovo (under United Nations Security Council Resolution 1244/99),non-household,2012,:
+365,Moldova,non-household,2012,:
+366,Ukraine,non-household,2012,:
+367,Georgia,non-household,2012,:
+368,European Union - 27 countries (from 2020),medium_size_households,2013,0.0920
+369,European Union - 28 countries (2013-2020),medium_size_households,2013,:
+370,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",medium_size_households,2013,0.0933
+371,Euro area - 19 countries  (from 2015),medium_size_households,2013,:
+372,Belgium,medium_size_households,2013,0.0914
+373,Bulgaria,medium_size_households,2013,0.0803
+374,Czechia,medium_size_households,2013,0.1012
+375,Denmark,medium_size_households,2013,0.0661
+376,Germany (until 1990 former territory of the FRG),medium_size_households,2013,0.0860
+377,Estonia,medium_size_households,2013,0.0842
+378,Ireland,medium_size_households,2013,0.1331
+379,Greece,medium_size_households,2013,0.1040
+380,Spain,medium_size_households,2013,0.1165
+381,France,medium_size_households,2013,0.0781
+382,Croatia,medium_size_households,2013,0.0942
+383,Italy,medium_size_households,2013,0.1122
+384,Cyprus,medium_size_households,2013,0.2002
+385,Latvia,medium_size_households,2013,0.0950
+386,Lithuania,medium_size_households,2013,0.0956
+387,Luxembourg,medium_size_households,2013,0.0940
+388,Hungary,medium_size_households,2013,0.0904
+389,Malta,medium_size_households,2013,0.1790
+390,Netherlands,medium_size_households,2013,0.0795
+391,Austria,medium_size_households,2013,0.0872
+392,Poland,medium_size_households,2013,0.0883
+393,Portugal,medium_size_households,2013,0.1015
+394,Romania,medium_size_households,2013,0.0904
+395,Slovenia,medium_size_households,2013,0.0838
+396,Slovakia,medium_size_households,2013,0.1242
+397,Finland,medium_size_households,2013,0.0679
+398,Sweden,medium_size_households,2013,0.0799
+399,Iceland,medium_size_households,2013,:
+400,Liechtenstein,medium_size_households,2013,:
+401,Norway,medium_size_households,2013,0.0812
+402,Switzerland,medium_size_households,2013,:
+403,United Kingdom,medium_size_households,2013,0.1124
+404,Montenegro,medium_size_households,2013,0.0747
+405,North Macedonia,medium_size_households,2013,0.0391
+406,Albania,medium_size_households,2013,:
+407,Serbia,medium_size_households,2013,0.0568
+408,Turkey,medium_size_households,2013,0.0891
+409,Bosnia and Herzegovina,medium_size_households,2013,0.0653
+410,Kosovo (under United Nations Security Council Resolution 1244/99),medium_size_households,2013,0.0617
+411,Moldova,medium_size_households,2013,:
+412,Ukraine,medium_size_households,2013,:
+413,Georgia,medium_size_households,2013,:
+414,European Union - 27 countries (from 2020),non-household,2013,0.2042
+415,European Union - 28 countries (2013-2020),non-household,2013,:
+416,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",non-household,2013,0.2112
+417,Euro area - 19 countries  (from 2015),non-household,2013,:
+418,Belgium,non-household,2013,0.2173
+419,Bulgaria,non-household,2013,0.0924
+420,Czechia,non-household,2013,0.1681
+421,Denmark,non-household,2013,0.3000
+422,Germany (until 1990 former territory of the FRG),non-household,2013,0.2919
+423,Estonia,non-household,2013,0.1351
+424,Ireland,non-household,2013,0.2295
+425,Greece,non-household,2013,0.1563
+426,Spain,non-household,2013,0.2228
+427,France,non-household,2013,0.1524
+428,Croatia,non-household,2013,0.1372
+429,Italy,non-household,2013,0.2292
+430,Cyprus,non-household,2013,0.2760
+431,Latvia,non-household,2013,0.1378
+432,Lithuania,non-household,2013,0.1370
+433,Luxembourg,non-household,2013,0.1665
+434,Hungary,non-household,2013,0.1397
+435,Malta,non-household,2013,0.1664
+436,Netherlands,non-household,2013,0.1898
+437,Austria,non-household,2013,0.2082
+438,Poland,non-household,2013,0.1480
+439,Portugal,non-household,2013,0.2081
+440,Romania,non-household,2013,0.1323
+441,Slovenia,non-household,2013,0.1610
+442,Slovakia,non-household,2013,0.1698
+443,Finland,non-household,2013,0.1578
+444,Sweden,non-household,2013,0.2101
+445,Iceland,non-household,2013,0.1053
+446,Liechtenstein,non-household,2013,:
+447,Norway,non-household,2013,0.1909
+448,Switzerland,non-household,2013,:
+449,United Kingdom,non-household,2013,0.1741
+450,Montenegro,non-household,2013,0.0956
+451,North Macedonia,non-household,2013,0.0810
+452,Albania,non-household,2013,0.1156
+453,Serbia,non-household,2013,0.0564
+454,Turkey,non-household,2013,0.1495
+455,Bosnia and Herzegovina,non-household,2013,0.0803
+456,Kosovo (under United Nations Security Council Resolution 1244/99),non-household,2013,0.0564
+457,Moldova,non-household,2013,:
+458,Ukraine,non-household,2013,:
+459,Georgia,non-household,2013,:
+460,European Union - 27 countries (from 2020),medium_size_households,2014,0.0886
+461,European Union - 28 countries (2013-2020),medium_size_households,2014,:
+462,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",medium_size_households,2014,0.0916
+463,Euro area - 19 countries  (from 2015),medium_size_households,2014,:
+464,Belgium,medium_size_households,2014,0.0916
+465,Bulgaria,medium_size_households,2014,0.0736
+466,Czechia,medium_size_households,2014,0.0819
+467,Denmark,medium_size_households,2014,0.0654
+468,Germany (until 1990 former territory of the FRG),medium_size_households,2014,0.0844
+469,Estonia,medium_size_households,2014,0.0794
+470,Ireland,medium_size_households,2014,0.1303
+471,Greece,medium_size_households,2014,0.1090
+472,Spain,medium_size_households,2014,0.1185
+473,France,medium_size_households,2014,0.0765
+474,Croatia,medium_size_households,2014,0.0903
+475,Italy,medium_size_households,2014,0.1080
+476,Cyprus,medium_size_households,2014,0.1672
+477,Latvia,medium_size_households,2014,0.0903
+478,Lithuania,medium_size_households,2014,0.0958
+479,Luxembourg,medium_size_households,2014,0.0949
+480,Hungary,medium_size_households,2014,0.0836
+481,Malta,medium_size_households,2014,0.1770
+482,Netherlands,medium_size_households,2014,0.0769
+483,Austria,medium_size_households,2014,0.0827
+484,Poland,medium_size_households,2014,0.0777
+485,Portugal,medium_size_households,2014,0.1029
+486,Romania,medium_size_households,2014,0.0753
+487,Slovenia,medium_size_households,2014,0.0754
+488,Slovakia,medium_size_households,2014,0.1107
+489,Finland,medium_size_households,2014,0.0664
+490,Sweden,medium_size_households,2014,0.0702
+491,Iceland,medium_size_households,2014,:
+492,Liechtenstein,medium_size_households,2014,0.1359
+493,Norway,medium_size_households,2014,0.0649
+494,Switzerland,medium_size_households,2014,:
+495,United Kingdom,medium_size_households,2014,0.1246
+496,Montenegro,medium_size_households,2014,0.0761
+497,North Macedonia,medium_size_households,2014,0.0419
+498,Albania,medium_size_households,2014,:
+499,Serbia,medium_size_households,2014,0.0507
+500,Turkey,medium_size_households,2014,0.0720
+501,Bosnia and Herzegovina,medium_size_households,2014,0.0652
+502,Kosovo (under United Nations Security Council Resolution 1244/99),medium_size_households,2014,0.0637
+503,Moldova,medium_size_households,2014,:
+504,Ukraine,medium_size_households,2014,:
+505,Georgia,medium_size_households,2014,:
+506,European Union - 27 countries (from 2020),non-household,2014,0.2058
+507,European Union - 28 countries (2013-2020),non-household,2014,:
+508,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",non-household,2014,0.2161
+509,Euro area - 19 countries  (from 2015),non-household,2014,:
+510,Belgium,non-household,2014,0.2097
+511,Bulgaria,non-household,2014,0.0832
+512,Czechia,non-household,2014,0.1388
+513,Denmark,non-household,2014,0.3042
+514,Germany (until 1990 former territory of the FRG),non-household,2014,0.2981
+515,Estonia,non-household,2014,0.1307
+516,Ireland,non-household,2014,0.2407
+517,Greece,non-household,2014,0.1767
+518,Spain,non-household,2014,0.2165
+519,France,non-household,2014,0.1585
+520,Croatia,non-household,2014,0.1312
+521,Italy,non-household,2014,0.2446
+522,Cyprus,non-household,2014,0.2291
+523,Latvia,non-household,2014,0.1365
+524,Lithuania,non-household,2014,0.1330
+525,Luxembourg,non-household,2014,0.1738
+526,Hungary,non-household,2014,0.1202
+527,Malta,non-household,2014,0.1474
+528,Netherlands,non-household,2014,0.1841
+529,Austria,non-household,2014,0.2021
+530,Poland,non-household,2014,0.1421
+531,Portugal,non-household,2014,0.2175
+532,Romania,non-household,2014,0.1290
+533,Slovenia,non-household,2014,0.1630
+534,Slovakia,non-household,2014,0.1507
+535,Finland,non-household,2014,0.1563
+536,Sweden,non-household,2014,0.1967
+537,Iceland,non-household,2014,0.1133
+538,Liechtenstein,non-household,2014,0.1531
+539,Norway,non-household,2014,0.1653
+540,Switzerland,non-household,2014,:
+541,United Kingdom,non-household,2014,0.1918
+542,Montenegro,non-household,2014,0.0985
+543,North Macedonia,non-household,2014,0.0785
+544,Albania,non-household,2014,0.1156
+545,Serbia,non-household,2014,0.0607
+546,Turkey,non-household,2014,0.1192
+547,Bosnia and Herzegovina,non-household,2014,0.0791
+548,Kosovo (under United Nations Security Council Resolution 1244/99),non-household,2014,0.0552
+549,Moldova,non-household,2014,:
+550,Ukraine,non-household,2014,:
+551,Georgia,non-household,2014,:
+552,European Union - 27 countries (from 2020),medium_size_households,2015,0.0842
+553,European Union - 28 countries (2013-2020),medium_size_households,2015,:
+554,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",medium_size_households,2015,0.0868
+555,Euro area - 19 countries  (from 2015),medium_size_households,2015,:
+556,Belgium,medium_size_households,2015,0.0898
+557,Bulgaria,medium_size_households,2015,0.0682
+558,Czechia,medium_size_households,2015,0.0761
+559,Denmark,medium_size_households,2015,0.0591
+560,Germany (until 1990 former territory of the FRG),medium_size_households,2015,0.0809
+561,Estonia,medium_size_households,2015,0.0755
+562,Ireland,medium_size_households,2015,0.1294
+563,Greece,medium_size_households,2015,0.1037
+564,Spain,medium_size_households,2015,0.1116
+565,France,medium_size_households,2015,0.0776
+566,Croatia,medium_size_households,2015,0.0869
+567,Italy,medium_size_households,2015,0.0943
+568,Cyprus,medium_size_households,2015,0.1316
+569,Latvia,medium_size_households,2015,0.0910
+570,Lithuania,medium_size_households,2015,0.0818
+571,Luxembourg,medium_size_households,2015,0.0842
+572,Hungary,medium_size_households,2015,0.0778
+573,Malta,medium_size_households,2015,0.1599
+574,Netherlands,medium_size_households,2015,0.0722
+575,Austria,medium_size_households,2015,0.0731
+576,Poland,medium_size_households,2015,0.0833
+577,Portugal,medium_size_households,2015,0.0989
+578,Romania,medium_size_households,2015,0.0707
+579,Slovenia,medium_size_households,2015,0.0714
+580,Slovakia,medium_size_households,2015,0.1081
+581,Finland,medium_size_households,2015,0.0637
+582,Sweden,medium_size_households,2015,0.0617
+583,Iceland,medium_size_households,2015,:
+584,Liechtenstein,medium_size_households,2015,0.1426
+585,Norway,medium_size_households,2015,0.0612
+586,Switzerland,medium_size_households,2015,:
+587,United Kingdom,medium_size_households,2015,0.1184
+588,Montenegro,medium_size_households,2015,0.0766
+589,North Macedonia,medium_size_households,2015,0.0836
+590,Albania,medium_size_households,2015,:
+591,Serbia,medium_size_households,2015,0.0591
+592,Turkey,medium_size_households,2015,0.0790
+593,Bosnia and Herzegovina,medium_size_households,2015,0.0625
+594,Kosovo (under United Nations Security Council Resolution 1244/99),medium_size_households,2015,0.0705
+595,Moldova,medium_size_households,2015,0.0707
+596,Ukraine,medium_size_households,2015,:
+597,Georgia,medium_size_households,2015,:
+598,European Union - 27 countries (from 2020),non-household,2015,0.2083
+599,European Union - 28 countries (2013-2020),non-household,2015,:
+600,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",non-household,2015,0.2199
+601,Euro area - 19 countries  (from 2015),non-household,2015,:
+602,Belgium,non-household,2015,0.2126
+603,Bulgaria,non-household,2015,0.0942
+604,Czechia,non-household,2015,0.1385
+605,Denmark,non-household,2015,0.3068
+606,Germany (until 1990 former territory of the FRG),non-household,2015,0.2951
+607,Estonia,non-household,2015,0.1302
+608,Ireland,non-household,2015,0.2426
+609,Greece,non-household,2015,0.1767
+610,Spain,non-household,2015,0.2309
+611,France,non-household,2015,0.1676
+612,Croatia,non-household,2015,0.1317
+613,Italy,non-household,2015,0.2450
+614,Cyprus,non-household,2015,0.1957
+615,Latvia,non-household,2015,0.1635
+616,Lithuania,non-household,2015,0.1256
+617,Luxembourg,non-household,2015,0.1767
+618,Hungary,non-household,2015,0.1127
+619,Malta,non-household,2015,0.1257
+620,Netherlands,non-household,2015,0.1986
+621,Austria,non-household,2015,0.2009
+622,Poland,non-household,2015,0.1444
+623,Portugal,non-household,2015,0.2279
+624,Romania,non-household,2015,0.1303
+625,Slovenia,non-household,2015,0.1589
+626,Slovakia,non-household,2015,0.1506
+627,Finland,non-household,2015,0.1552
+628,Sweden,non-household,2015,0.1851
+629,Iceland,non-household,2015,0.1197
+630,Liechtenstein,non-household,2015,0.1841
+631,Norway,non-household,2015,0.1614
+632,Switzerland,non-household,2015,:
+633,United Kingdom,non-household,2015,0.2125
+634,Montenegro,non-household,2015,0.0982
+635,North Macedonia,non-household,2015,0.0826
+636,Albania,non-household,2015,0.0812
+637,Serbia,non-household,2015,0.0575
+638,Turkey,non-household,2015,0.1360
+639,Bosnia and Herzegovina,non-household,2015,0.0812
+640,Kosovo (under United Nations Security Council Resolution 1244/99),non-household,2015,0.0625
+641,Moldova,non-household,2015,0.0819
+642,Ukraine,non-household,2015,:
+643,Georgia,non-household,2015,:
+644,European Union - 27 countries (from 2020),medium_size_households,2016,0.0793
+645,European Union - 28 countries (2013-2020),medium_size_households,2016,:
+646,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",medium_size_households,2016,0.0813
+647,Euro area - 19 countries  (from 2015),medium_size_households,2016,:
+648,Belgium,medium_size_households,2016,0.0850
+649,Bulgaria,medium_size_households,2016,0.0992
+650,Czechia,medium_size_households,2016,0.0720
+651,Denmark,medium_size_households,2016,0.0588
+652,Germany (until 1990 former territory of the FRG),medium_size_households,2016,0.0788
+653,Estonia,medium_size_households,2016,0.0737
+654,Ireland,medium_size_households,2016,0.1198
+655,Greece,medium_size_households,2016,0.0929
+656,Spain,medium_size_households,2016,0.1051
+657,France,medium_size_households,2016,0.0714
+658,Croatia,medium_size_households,2016,0.0851
+659,Italy,medium_size_households,2016,0.0841
+660,Cyprus,medium_size_households,2016,0.0954
+661,Latvia,medium_size_households,2016,0.0897
+662,Lithuania,medium_size_households,2016,0.0777
+663,Luxembourg,medium_size_households,2016,0.0784
+664,Hungary,medium_size_households,2016,0.0729
+665,Malta,medium_size_households,2016,0.1422
+666,Netherlands,medium_size_households,2016,0.0652
+667,Austria,medium_size_households,2016,0.0703
+668,Poland,medium_size_households,2016,0.0762
+669,Portugal,medium_size_households,2016,0.0943
+670,Romania,medium_size_households,2016,0.0635
+671,Slovenia,medium_size_households,2016,0.0678
+672,Slovakia,medium_size_households,2016,0.1047
+673,Finland,medium_size_households,2016,0.0614
+674,Sweden,medium_size_households,2016,0.0611
+675,Iceland,medium_size_households,2016,0.0714
+676,Liechtenstein,medium_size_households,2016,0.1255
+677,Norway,medium_size_households,2016,0.0574
+678,Switzerland,medium_size_households,2016,:
+679,United Kingdom,medium_size_households,2016,0.1042
+680,Montenegro,medium_size_households,2016,0.0794
+681,North Macedonia,medium_size_households,2016,0.0819
+682,Albania,medium_size_households,2016,:
+683,Serbia,medium_size_households,2016,0.0616
+684,Turkey,medium_size_households,2016,0.0722
+685,Bosnia and Herzegovina,medium_size_households,2016,0.0612
+686,Kosovo (under United Nations Security Council Resolution 1244/99),medium_size_households,2016,0.0687
+687,Moldova,medium_size_households,2016,0.0827
+688,Ukraine,medium_size_households,2016,:
+689,Georgia,medium_size_households,2016,:
+690,European Union - 27 countries (from 2020),non-household,2016,0.2051
+691,European Union - 28 countries (2013-2020),non-household,2016,:
+692,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",non-household,2016,0.2162
+693,Euro area - 19 countries  (from 2015),non-household,2016,:
+694,Belgium,non-household,2016,0.2544
+695,Bulgaria,non-household,2016,0.0956
+696,Czechia,non-household,2016,0.1420
+697,Denmark,non-household,2016,0.3088
+698,Germany (until 1990 former territory of the FRG),non-household,2016,0.2969
+699,Estonia,non-household,2016,0.1208
+700,Ireland,non-household,2016,0.2320
+701,Greece,non-household,2016,0.1716
+702,Spain,non-household,2016,0.2185
+703,France,non-household,2016,0.1685
+704,Croatia,non-household,2016,0.1311
+705,Italy,non-household,2016,0.2342
+706,Cyprus,non-household,2016,0.1527
+707,Latvia,non-household,2016,0.1628
+708,Lithuania,non-household,2016,0.1231
+709,Luxembourg,non-household,2016,0.1698
+710,Hungary,non-household,2016,0.1114
+711,Malta,non-household,2016,0.1257
+712,Netherlands,non-household,2016,0.1620
+713,Austria,non-household,2016,0.2034
+714,Poland,non-household,2016,0.1332
+715,Portugal,non-household,2016,0.2350
+716,Romania,non-household,2016,0.1260
+717,Slovenia,non-household,2016,0.1618
+718,Slovakia,non-household,2016,0.1423
+719,Finland,non-household,2016,0.1541
+720,Sweden,non-household,2016,0.1894
+721,Iceland,non-household,2016,0.1312
+722,Liechtenstein,non-household,2016,0.1728
+723,Norway,non-household,2016,0.1515
+724,Switzerland,non-household,2016,:
+725,United Kingdom,non-household,2016,0.1951
+726,Montenegro,non-household,2016,0.0956
+727,North Macedonia,non-household,2016,0.0822
+728,Albania,non-household,2016,0.0824
+729,Serbia,non-household,2016,0.0641
+730,Turkey,non-household,2016,0.1267
+731,Bosnia and Herzegovina,non-household,2016,0.0831
+732,Kosovo (under United Nations Security Council Resolution 1244/99),non-household,2016,0.0590
+733,Moldova,non-household,2016,0.0962
+734,Ukraine,non-household,2016,0.0249
+735,Georgia,non-household,2016,:
+736,European Union - 27 countries (from 2020),medium_size_households,2017,0.0767
+737,European Union - 28 countries (2013-2020),medium_size_households,2017,:
+738,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",medium_size_households,2017,0.0792
+739,Euro area - 19 countries  (from 2015),medium_size_households,2017,:
+740,Belgium,medium_size_households,2017,0.0816
+741,Bulgaria,medium_size_households,2017,0.0753
+742,Czechia,medium_size_households,2017,0.0677
+743,Denmark,medium_size_households,2017,0.0616
+744,Germany (until 1990 former territory of the FRG),medium_size_households,2017,0.0761
+745,Estonia,medium_size_households,2017,0.0721
+746,Ireland,medium_size_households,2017,0.1095
+747,Greece,medium_size_households,2017,0.0862
+748,Spain,medium_size_households,2017,0.1010
+749,France,medium_size_households,2017,0.0733
+750,Croatia,medium_size_households,2017,0.0821
+751,Italy,medium_size_households,2017,0.0829
+752,Cyprus,medium_size_households,2017,0.1275
+753,Latvia,medium_size_households,2017,0.0911
+754,Lithuania,medium_size_households,2017,0.0696
+755,Luxembourg,medium_size_households,2017,0.0696
+756,Hungary,medium_size_households,2017,0.0638
+757,Malta,medium_size_households,2017,0.1336
+758,Netherlands,medium_size_households,2017,0.0607
+759,Austria,medium_size_households,2017,0.0621
+760,Poland,medium_size_households,2017,0.0673
+761,Portugal,medium_size_households,2017,0.0835
+762,Romania,medium_size_households,2017,0.0642
+763,Slovenia,medium_size_households,2017,0.0619
+764,Slovakia,medium_size_households,2017,0.0741
+765,Finland,medium_size_households,2017,0.0596
+766,Sweden,medium_size_households,2017,0.0643
+767,Iceland,medium_size_households,2017,0.0768
+768,Liechtenstein,medium_size_households,2017,0.1156
+769,Norway,medium_size_households,2017,0.0605
+770,Switzerland,medium_size_households,2017,:
+771,United Kingdom,medium_size_households,2017,0.0938
+772,Montenegro,medium_size_households,2017,0.0724
+773,North Macedonia,medium_size_households,2017,0.0524
+774,Albania,medium_size_households,2017,:
+775,Serbia,medium_size_households,2017,0.0587
+776,Turkey,medium_size_households,2017,0.0615
+777,Bosnia and Herzegovina,medium_size_households,2017,0.0581
+778,Kosovo (under United Nations Security Council Resolution 1244/99),medium_size_households,2017,0.0731
+779,Moldova,medium_size_households,2017,0.0828
+780,Ukraine,medium_size_households,2017,:
+781,Georgia,medium_size_households,2017,:
+782,European Union - 27 countries (from 2020),non-household,2017,0.2086
+783,European Union - 28 countries (2013-2020),non-household,2017,:
+784,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",non-household,2017,0.2208
+785,Euro area - 19 countries  (from 2015),non-household,2017,:
+786,Belgium,non-household,2017,0.2857
+787,Bulgaria,non-household,2017,0.0955
+788,Czechia,non-household,2017,0.1438
+789,Denmark,non-household,2017,0.3049
+790,Germany (until 1990 former territory of the FRG),non-household,2017,0.3048
+791,Estonia,non-household,2017,0.1207
+792,Ireland,non-household,2017,0.2305
+793,Greece,non-household,2017,0.1711
+794,Spain,non-household,2017,0.2296
+795,France,non-household,2017,0.1704
+796,Croatia,non-household,2017,0.1196
+797,Italy,non-household,2017,0.2132
+798,Cyprus,non-household,2017,0.1863
+799,Latvia,non-household,2017,0.1586
+800,Lithuania,non-household,2017,0.1116
+801,Luxembourg,non-household,2017,0.1615
+802,Hungary,non-household,2017,0.1125
+803,Malta,non-household,2017,0.1328
+804,Netherlands,non-household,2017,0.1562
+805,Austria,non-household,2017,0.1950
+806,Poland,non-household,2017,0.1446
+807,Portugal,non-household,2017,0.2284
+808,Romania,non-household,2017,0.1198
+809,Slovenia,non-household,2017,0.1609
+810,Slovakia,non-household,2017,0.1435
+811,Finland,non-household,2017,0.1581
+812,Sweden,non-household,2017,0.1936
+813,Iceland,non-household,2017,0.1598
+814,Liechtenstein,non-household,2017,0.1724
+815,Norway,non-household,2017,0.1642
+816,Switzerland,non-household,2017,:
+817,United Kingdom,non-household,2017,0.1766
+818,Montenegro,non-household,2017,0.0983
+819,North Macedonia,non-household,2017,0.0820
+820,Albania,non-household,2017,0.0844
+821,Serbia,non-household,2017,0.0664
+822,Turkey,non-household,2017,0.1048
+823,Bosnia and Herzegovina,non-household,2017,0.0859
+824,Kosovo (under United Nations Security Council Resolution 1244/99),non-household,2017,0.0662
+825,Moldova,non-household,2017,0.0977
+826,Ukraine,non-household,2017,0.0393
+827,Georgia,non-household,2017,:
+828,European Union - 27 countries (from 2020),medium_size_households,2018,0.0779
+829,European Union - 28 countries (2013-2020),medium_size_households,2018,:
+830,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",medium_size_households,2018,0.0805
+831,Euro area - 19 countries  (from 2015),medium_size_households,2018,:
+832,Belgium,medium_size_households,2018,0.0765
+833,Bulgaria,medium_size_households,2018,0.0800
+834,Czechia,medium_size_households,2018,0.0722
+835,Denmark,medium_size_households,2018,0.0593
+836,Germany (until 1990 former territory of the FRG),medium_size_households,2018,0.0771
+837,Estonia,medium_size_households,2018,0.0731
+838,Ireland,medium_size_households,2018,0.1171
+839,Greece,medium_size_households,2018,0.0790
+840,Spain,medium_size_households,2018,0.1008
+841,France,medium_size_households,2018,0.0736
+842,Croatia,medium_size_households,2018,0.0848
+843,Italy,medium_size_households,2018,0.0892
+844,Cyprus,medium_size_households,2018,0.1241
+845,Latvia,medium_size_households,2018,0.0811
+846,Lithuania,medium_size_households,2018,0.0701
+847,Luxembourg,medium_size_households,2018,0.0746
+848,Hungary,medium_size_households,2018,0.0738
+849,Malta,medium_size_households,2018,0.1331
+850,Netherlands,medium_size_households,2018,0.0611
+851,Austria,medium_size_households,2018,0.0704
+852,Poland,medium_size_households,2018,0.0648
+853,Portugal,medium_size_households,2018,0.0781
+854,Romania,medium_size_households,2018,0.0710
+855,Slovenia,medium_size_households,2018,0.0689
+856,Slovakia,medium_size_households,2018,0.0790
+857,Finland,medium_size_households,2018,0.0611
+858,Sweden,medium_size_households,2018,0.0643
+859,Iceland,medium_size_households,2018,0.0756
+860,Liechtenstein,medium_size_households,2018,0.0739
+861,Norway,medium_size_households,2018,0.0677
+862,Switzerland,medium_size_households,2018,:
+863,United Kingdom,medium_size_households,2018,0.0970
+864,Montenegro,medium_size_households,2018,0.0765
+865,North Macedonia,medium_size_households,2018,0.0624
+866,Albania,medium_size_households,2018,:
+867,Serbia,medium_size_households,2018,0.0647
+868,Turkey,medium_size_households,2018,0.0571
+869,Bosnia and Herzegovina,medium_size_households,2018,0.0643
+870,Kosovo (under United Nations Security Council Resolution 1244/99),medium_size_households,2018,0.0729
+871,Moldova,medium_size_households,2018,0.0880
+872,Ukraine,medium_size_households,2018,0.0595
+873,Georgia,medium_size_households,2018,0.0489
+874,European Union - 27 countries (from 2020),non-household,2018,0.2099
+875,European Union - 28 countries (2013-2020),non-household,2018,:
+876,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",non-household,2018,0.2220
+877,Euro area - 19 countries  (from 2015),non-household,2018,:
+878,Belgium,non-household,2018,0.2824
+879,Bulgaria,non-household,2018,0.0979
+880,Czechia,non-household,2018,0.1573
+881,Denmark,non-household,2018,0.3126
+882,Germany (until 1990 former territory of the FRG),non-household,2018,0.2987
+883,Estonia,non-household,2018,0.1348
+884,Ireland,non-household,2018,0.2369
+885,Greece,non-household,2018,0.1672
+886,Spain,non-household,2018,0.2383
+887,France,non-household,2018,0.1748
+888,Croatia,non-household,2018,0.1311
+889,Italy,non-household,2018,0.2067
+890,Cyprus,non-household,2018,0.1893
+891,Latvia,non-household,2018,0.1531
+892,Lithuania,non-household,2018,0.1097
+893,Luxembourg,non-household,2018,0.1671
+894,Hungary,non-household,2018,0.1123
+895,Malta,non-household,2018,0.1285
+896,Netherlands,non-household,2018,0.1706
+897,Austria,non-household,2018,0.1966
+898,Poland,non-household,2018,0.1410
+899,Portugal,non-household,2018,0.2246
+900,Romania,non-household,2018,0.1333
+901,Slovenia,non-household,2018,0.1613
+902,Slovakia,non-household,2018,0.1566
+903,Finland,non-household,2018,0.1612
+904,Sweden,non-household,2018,0.1891
+905,Iceland,non-household,2018,0.1545
+906,Liechtenstein,non-household,2018,0.1916
+907,Norway,non-household,2018,0.1751
+908,Switzerland,non-household,2018,:
+909,United Kingdom,non-household,2018,0.1887
+910,Montenegro,non-household,2018,0.1024
+911,North Macedonia,non-household,2018,0.0781
+912,Albania,non-household,2018,:
+913,Serbia,non-household,2018,0.0705
+914,Turkey,non-household,2018,0.0904
+915,Bosnia and Herzegovina,non-household,2018,0.0864
+916,Kosovo (under United Nations Security Council Resolution 1244/99),non-household,2018,0.0633
+917,Moldova,non-household,2018,0.1020
+918,Ukraine,non-household,2018,0.0410
+919,Georgia,non-household,2018,0.0685
+920,European Union - 27 countries (from 2020),medium_size_households,2019,0.0842
+921,European Union - 28 countries (2013-2020),medium_size_households,2019,:
+922,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",medium_size_households,2019,0.0861
+923,Euro area - 19 countries  (from 2015),medium_size_households,2019,:
+924,Belgium,medium_size_households,2019,0.0807
+925,Bulgaria,medium_size_households,2019,0.0877
+926,Czechia,medium_size_households,2019,0.0646
+927,Denmark,medium_size_households,2019,0.0635
+928,Germany (until 1990 former territory of the FRG),medium_size_households,2019,0.0855
+929,Estonia,medium_size_households,2019,0.0768
+930,Ireland,medium_size_households,2019,0.1294
+931,Greece,medium_size_households,2019,0.0810
+932,Spain,medium_size_households,2019,0.0925
+933,France,medium_size_households,2019,0.0812
+934,Croatia,medium_size_households,2019,0.0887
+935,Italy,medium_size_households,2019,0.0952
+936,Cyprus,medium_size_households,2019,0.1291
+937,Latvia,medium_size_households,2019,0.0837
+938,Lithuania,medium_size_households,2019,0.0833
+939,Luxembourg,medium_size_households,2019,0.0816
+940,Hungary,medium_size_households,2019,0.0861
+941,Malta,medium_size_households,2019,0.1330
+942,Netherlands,medium_size_households,2019,0.0679
+943,Austria,medium_size_households,2019,0.0805
+944,Poland,medium_size_households,2019,0.0795
+945,Portugal,medium_size_households,2019,0.0869
+946,Romania,medium_size_households,2019,0.0821
+947,Slovenia,medium_size_households,2019,0.0791
+948,Slovakia,medium_size_households,2019,0.0921
+949,Finland,medium_size_households,2019,0.0639
+950,Sweden,medium_size_households,2019,0.0733
+951,Iceland,medium_size_households,2019,0.0558
+952,Liechtenstein,medium_size_households,2019,0.0824
+953,Norway,medium_size_households,2019,0.0729
+954,Switzerland,medium_size_households,2019,:
+955,United Kingdom,medium_size_households,2019,0.0998
+956,Montenegro,medium_size_households,2019,0.0776
+957,North Macedonia,medium_size_households,2019,0.0687
+958,Albania,medium_size_households,2019,0.1040
+959,Serbia,medium_size_households,2019,0.0767
+960,Turkey,medium_size_households,2019,0.0683
+961,Bosnia and Herzegovina,medium_size_households,2019,0.0647
+962,Kosovo (under United Nations Security Council Resolution 1244/99),medium_size_households,2019,0.0642
+963,Moldova,medium_size_households,2019,0.0771
+964,Ukraine,medium_size_households,2019,0.0656
+965,Georgia,medium_size_households,2019,0.0595
+966,European Union - 27 countries (from 2020),non-household,2019,0.2170
+967,European Union - 28 countries (2013-2020),non-household,2019,:
+968,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",non-household,2019,0.2295
+969,Euro area - 19 countries  (from 2015),non-household,2019,:
+970,Belgium,non-household,2019,0.2839
+971,Bulgaria,non-household,2019,0.0997
+972,Czechia,non-household,2019,0.1748
+973,Denmark,non-household,2019,0.2984
+974,Germany (until 1990 former territory of the FRG),non-household,2019,0.3088
+975,Estonia,non-household,2019,0.1357
+976,Ireland,non-household,2019,0.2423
+977,Greece,non-household,2019,0.1595
+978,Spain,non-household,2019,0.2403
+979,France,non-household,2019,0.1778
+980,Croatia,non-household,2019,0.1321
+981,Italy,non-household,2019,0.2301
+982,Cyprus,non-household,2019,0.2203
+983,Latvia,non-household,2019,0.1629
+984,Lithuania,non-household,2019,0.1255
+985,Luxembourg,non-household,2019,0.1798
+986,Hungary,non-household,2019,0.1120
+987,Malta,non-household,2019,0.1290
+988,Netherlands,non-household,2019,0.2067
+989,Austria,non-household,2019,0.2034
+990,Poland,non-household,2019,0.1343
+991,Portugal,non-household,2019,0.2150
+992,Romania,non-household,2019,0.1358
+993,Slovenia,non-household,2019,0.1634
+994,Slovakia,non-household,2019,0.1577
+995,Finland,non-household,2019,0.1734
+996,Sweden,non-household,2019,0.2058
+997,Iceland,non-household,2019,0.1429
+998,Liechtenstein,non-household,2019,0.1985
+999,Norway,non-household,2019,0.1867
+1000,Switzerland,non-household,2019,:
+1001,United Kingdom,non-household,2019,0.2122
+1002,Montenegro,non-household,2019,0.1032
+1003,North Macedonia,non-household,2019,0.0783
+1004,Albania,non-household,2019,0.0920
+1005,Serbia,non-household,2019,0.0706
+1006,Turkey,non-household,2019,0.0847
+1007,Bosnia and Herzegovina,non-household,2019,0.0873
+1008,Kosovo (under United Nations Security Council Resolution 1244/99),non-household,2019,0.0600
+1009,Moldova,non-household,2019,0.0936
+1010,Ukraine,non-household,2019,0.0442
+1011,Georgia,non-household,2019,0.0809
+1012,European Union - 27 countries (from 2020),medium_size_households,2020,0.0818
+1013,European Union - 28 countries (2013-2020),medium_size_households,2020,:
+1014,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",medium_size_households,2020,0.0835
+1015,Euro area - 19 countries  (from 2015),medium_size_households,2020,:
+1016,Belgium,medium_size_households,2020,0.0795
+1017,Bulgaria,medium_size_households,2020,0.0805
+1018,Czechia,medium_size_households,2020,0.0716
+1019,Denmark,medium_size_households,2020,0.0540
+1020,Germany (until 1990 former territory of the FRG),medium_size_households,2020,0.0849
+1021,Estonia,medium_size_households,2020,0.0675
+1022,Ireland,medium_size_households,2020,0.1265
+1023,Greece,medium_size_households,2020,0.0823
+1024,Spain,medium_size_households,2020,0.0786
+1025,France,medium_size_households,2020,0.0847
+1026,Croatia,medium_size_households,2020,0.0898
+1027,Italy,medium_size_households,2020,0.0856
+1028,Cyprus,medium_size_households,2020,0.1178
+1029,Latvia,medium_size_households,2020,0.0813
+1030,Lithuania,medium_size_households,2020,0.0871
+1031,Luxembourg,medium_size_households,2020,0.0824
+1032,Hungary,medium_size_households,2020,0.0849
+1033,Malta,medium_size_households,2020,0.1328
+1034,Netherlands,medium_size_households,2020,0.0680
+1035,Austria,medium_size_households,2020,0.0877
+1036,Poland,medium_size_households,2020,0.0800
+1037,Portugal,medium_size_households,2020,0.0794
+1038,Romania,medium_size_households,2020,0.0890
+1039,Slovenia,medium_size_households,2020,0.0811
+1040,Slovakia,medium_size_households,2020,0.0977
+1041,Finland,medium_size_households,2020,0.0625
+1042,Sweden,medium_size_households,2020,0.0641
+1043,Iceland,medium_size_households,2020,0.0713
+1044,Liechtenstein,medium_size_households,2020,0.0880
+1045,Norway,medium_size_households,2020,0.0417
+1046,Switzerland,medium_size_households,2020,:
+1047,United Kingdom,medium_size_households,2020,0.1065
+1048,Montenegro,medium_size_households,2020,0.0766
+1049,North Macedonia,medium_size_households,2020,0.0778
+1050,Albania,medium_size_households,2020,:
+1051,Serbia,medium_size_households,2020,0.0748
+1052,Turkey,medium_size_households,2020,0.0774
+1053,Bosnia and Herzegovina,medium_size_households,2020,0.0708
+1054,Kosovo (under United Nations Security Council Resolution 1244/99),medium_size_households,2020,0.0638
+1055,Moldova,medium_size_households,2020,0.0795
+1056,Ukraine,medium_size_households,2020,0.0595
+1057,Georgia,medium_size_households,2020,0.0505
+1058,European Union - 27 countries (from 2020),non-household,2020,0.2134
+1059,European Union - 28 countries (2013-2020),non-household,2020,:
+1060,"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)",non-household,2020,0.2263
+1061,Euro area - 19 countries  (from 2015),non-household,2020,:
+1062,Belgium,non-household,2020,0.2792
+1063,Bulgaria,non-household,2020,0.0997
+1064,Czechia,non-household,2020,0.1841
+1065,Denmark,non-household,2020,0.2833
+1066,Germany (until 1990 former territory of the FRG),non-household,2020,0.3043
+1067,Estonia,non-household,2020,0.1236
+1068,Ireland,non-household,2020,0.2413
+1069,Greece,non-household,2020,0.1674
+1070,Spain,non-household,2020,0.2239
+1071,France,non-household,2020,0.1893
+1072,Croatia,non-household,2020,0.1301
+1073,Italy,non-household,2020,0.2226
+1074,Cyprus,non-household,2020,0.2133
+1075,Latvia,non-household,2020,0.1420
+1076,Lithuania,non-household,2020,0.1426
+1077,Luxembourg,non-household,2020,0.1986
+1078,Hungary,non-household,2020,0.1031
+1079,Malta,non-household,2020,0.1284
+1080,Netherlands,non-household,2020,0.1427
+1081,Austria,non-household,2020,0.2111
+1082,Poland,non-household,2020,0.1475
+1083,Portugal,non-household,2020,0.2120
+1084,Romania,non-household,2020,0.1459
+1085,Slovenia,non-household,2020,0.1448
+1086,Slovakia,non-household,2020,0.1686
+1087,Finland,non-household,2020,0.1740
+1088,Sweden,non-household,2020,0.1826
+1089,Iceland,non-household,2020,0.1341
+1090,Liechtenstein,non-household,2020,0.2115
+1091,Norway,non-household,2020,0.1355
+1092,Switzerland,non-household,2020,:
+1093,United Kingdom,non-household,2020,0.2203
+1094,Montenegro,non-household,2020,0.0988
+1095,North Macedonia,non-household,2020,0.0782
+1096,Albania,non-household,2020,:
+1097,Serbia,non-household,2020,0.0738
+1098,Turkey,non-household,2020,0.0995
+1099,Bosnia and Herzegovina,non-household,2020,0.0870
+1100,Kosovo (under United Nations Security Council Resolution 1244/99),non-household,2020,0.0605
+1101,Moldova,non-household,2020,0.1068
+1102,Ukraine,non-household,2020,0.0466
+1103,Georgia,non-household,2020,0.0663
