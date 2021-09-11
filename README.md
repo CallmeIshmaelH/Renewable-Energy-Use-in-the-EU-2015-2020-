@@ -27,6 +27,12 @@ The aim here is to identify:
 **- What factors if any might be able to explain different countries' levels of renewable energy use?**   
 **- What can we learn from the Top 5 countries in terms of Renewable energy use?**   
 
+## Process
+1. Clean and transform data from xls files.
+2. Store data as csvs for storage in MySQL database.
+3. Import data for exploratory data analysis and preliminary visualization.
+4. Create more detailed visualizations with Tableau.
+
 ## Repo Contents   
 This repo includes:  
 1. Individual csv files converted from the original xls sheets from the Eurostat Energy Database (https://ec.europa.eu/eurostat/data/database?node_code=nrg_bal_c)  
@@ -34,7 +40,8 @@ This repo includes:
 3. A jupyter notebook for cleaning and transforming data (Renewable_Energy_Performance_EU_cleaning.ipynb)  
 4. A sql dump for generating a small database of the tables used for EDA.
 5. A jupyter notebook for exploratory data analysis and preliminary visualization (Renewable_Energy_statistics_EDA.ipynb)  
-6. A collection of csv files for EDA and visualization (EDA Notebook folder)  
-7. Additional datasets for more in depth exploration and analysis of the renewable energy consumption, production and application habits of EU countries.  
+6. A collection of csv files for EDA and visualization (EDA Notebook folder) 
+7. A Tableau workbook containing visualizations of data.
+8. Additional datasets for more in depth exploration and analysis of the renewable energy consumption, production and application habits of EU countries.  
 
 ## Have fun! 
