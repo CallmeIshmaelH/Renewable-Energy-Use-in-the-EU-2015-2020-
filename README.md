@@ -11,11 +11,11 @@ In 2018, the target for renewable energy usage was raised to 34% and once more i
    
 Using data from Eurostat's Energy and Renewables databases (https://ec.europa.eu/eurostat/web/main/data/database) we will be looking at recent developments across the European27 geopolitical entities with an aim to answering the following questions:  
 
-*1) What are the top 5 performing EU member states in terms of renewable energy use?  
-*2) What are the most popular forms of energy used in these countries.   
-*3) What are the most popular forms of energy in these countries?  
-*4) Which EU member states consume the most energy annually, and what percentage of that consumption comes from renewable sources?  
-*5) Which EU member states have made the most progress in terms of renewable energy usage from 2015 to 2019, which countries have made the least progress?  
+**1) What are the top 5 performing EU member states in terms of renewable energy use?**  
+**2) What are the most popular forms of energy used in these countries.**   
+**3) What are the most popular forms of energy in these countries?**  
+**4) Which EU member states consume the most energy annually, and what percentage of that consumption comes from renewable sources?**  
+**5) Which EU member states have made the most progress in terms of renewable energy usage from 2015 to 2019, which countries have made the least progress?**  
 
 The aim here is to identify:
 - EU member states where there appears to be room for growth in the renewable energy sector (and thus where there might be early opportunities for investment in the renewable energy sector).  
@@ -36,4 +36,4 @@ This repo includes:
 5. A collection of csv files for EDA and visualization (EDA Notebook folder)  
 6. Additional datasets for more in depth exploration and analysis of the renewable energy consumption, production and application habits of EU countries.  
 
-## Have fun!  w
+## Have fun! 
