@@ -41,7 +41,7 @@ This repo includes:
 4. A sql dump for generating a small database of the tables used for EDA.
 5. A jupyter notebook for exploratory data analysis and preliminary visualization (Renewable_Energy_statistics_EDA.ipynb)  
 6. A collection of csv files for EDA and visualization (EDA Notebook folder) 
-7. A Tableau workbook containing visualizations of data.
+7. A Tableau workbook containing visualizations of data can be found here : https://public.tableau.com/app/profile/ishmael.ho7925/viz/RenewableEnergyEurope/Story1
 8. Additional datasets for more in depth exploration and analysis of the renewable energy consumption, production and application habits of EU countries.  
 
 ## Have fun! 
