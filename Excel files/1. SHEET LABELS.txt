@@ -1,0 +1,514 @@
+electricity prices by user type1: 
+Product:		Unit:		Timeframe:	Currency:	Energy indicator:
+Electrical energy	Kilowatt-hour	Annual		Euro		Medium size households	
+
+electricity prices by user type2: 
+Product:		Unit:		Timeframe:	Currency:	Energy indicator:
+Electrical energy	Kilowatt-hour	Annual		Euro		Non-household, medium size consumers	
+
+____________________________________________________________________________________________________________________________________________________________
+
+
+energy productivity euro per kilogram1	
+Unit:						Timeframe:
+Euro per kilogram of oil equivalent (KGOE)	Annual
+
+energy productivity euro per kilogram1			
+Unit:									Timeframe:
+Purchasing power standard (PPS) per kilogram of oil equivalent		Annual
+
+____________________________________________________________________________________________________________________________________________________________
+
+final energy consumption by product1
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Total								Thousand tonnes of oil equivalent	Annual		Final consumption - energy use	
+
+final energy consumption by product2
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Solid fossil fuels						Thousand tonnes of oil equivalent	Annual		Final consumption - energy use
+
+final energy consumption by product3
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Manufactured gases						Thousand tonnes of oil equivalent	Annual		Final consumption - energy use
+
+final energy consumption by product4
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Peat and peat products						Thousand tonnes of oil equivalent	Annual		Final consumption - energy use
+
+final energy consumption by product5
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Oil shale and oil sands						Thousand tonnes of oil equivalent	Annual		Final consumption - energy use
+
+final energy consumption by product6
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Natural gas							Thousand tonnes of oil equivalent	Annual		Final consumption - energy use
+
+final energy consumption by product7
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Oil and petroleum products (excluding biofuel portion)		Thousand tonnes of oil equivalent	Annual		Final consumption - energy use
+
+final energy consumption by product8
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Renewables and biofuels						Thousand tonnes of oil equivalent	Annual		Final consumption - energy use
+
+final energy consumption by product9
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Non-renewable waste						Thousand tonnes of oil equivalent	Annual		Final consumption - energy use
+
+final energy consumption by product10
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Electricity							Thousand tonnes of oil equivalent	Annual		Final consumption - energy use
+
+final energy consumption by product11
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Heat								Thousand tonnes of oil equivalent	Annual		Final consumption - energy use
+
+____________________________________________________________________________________________________________________________________________________________
+
+final energy consumption by sector1
+Standard international energy product classification (SIEC)  Unit of measure			Timeframe	Energy balance
+Total							     Thousand tonnes of oil equivalent	Annual		Final consumption - energy use
+
+final energy consumption by sector1
+Standard international energy product classification (SIEC):  Unit of measure:			Timeframe:	Energy balance:
+Total							     Thousand tonnes of oil equivalent	Annual		Final consumption - industry sector - energy use
+
+final energy consumption by sector1
+Standard international energy product classification (SIEC):  Unit of measure:			Timeframe:	Energy balance:
+Total							     Thousand tonnes of oil equivalent	Annual		Final consumption - transport sector - energy use
+	
+final energy consumption by sector
+Standard international energy product classification (SIEC):  Unit of measure:			Timeframe:	Energy balance:
+Total							     Thousand tonnes of oil equivalent	Annual		Final consumption - commercial and public services - energy use	
+
+final energy consumption by sector1
+Standard international energy product classification (SIEC):  Unit of measure:			Timeframe:	Energy balance:
+Total							     Thousand tonnes of oil equivalent	Annual		Final consumption - other sectors - households - energy use	
+
+____________________________________________________________________________________________________________________________________________________________
+
+gas price by user type1
+Products:	Unit of measure:				Timeframe:	Currency:	Energy indicator:	
+Natural gas	Gigajoule (gross calorific value - GCV)		Annual		Euro		Medium size households	
+
+gas price by user type2
+Products:	Unit of measure:				Timeframe:	Currency:	Energy indicator:
+Natural gas	Gigajoule (gross calorific value - GCV)		Annual		Euro		Non-household 	medium size consumers	
+
+____________________________________________________________________________________________________________________________________________________________
+
+gross energy by product1
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:	
+Total								Thousand tonnes of oil equivalent	Annual		Gross available energy	
+
+gross energy by product2
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:	
+Solid fossil fuels						Thousand tonnes of oil equivalent	Annual		Gross available energy	
+
+gross energy by product3
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:	
+Manufactured gases						Thousand tonnes of oil equivalent	Annual		Gross available energy
+	
+gross energy by product4
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:	
+Peat and peat products						Thousand tonnes of oil equivalent	Annual		Gross available energy	
+
+gross energy by product5
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:	
+Oil shale and oil sands						Thousand tonnes of oil equivalent	Annual		Gross available energy	
+
+gross energy by product6
+Standard international energy product classification (SIEC)	Unit of measure				Timeframe	Energy balance
+Natural gas							Thousand tonnes of oil equivalent	Annual		Gross available energy	
+
+gross energy by product7
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:	
+Oil and petroleum products 					Thousand tonnes of oil equivalent	Annual		Gross available energy
+(excluding biofuel portion)	
+		
+gross energy by product8
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:	
+Renewables and biofuels						Thousand tonnes of oil equivalent	Annual		Gross available energy
+	
+gross energy by product9
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:	
+Non-renewable waste						Thousand tonnes of oil equivalent	Annual		Gross available energy	
+
+gross energy by product10
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:	
+Electricity							Thousand tonnes of oil equivalent	Annual		Gross available energy	
+
+gross energy by product11
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:	
+Heat								Thousand tonnes of oil equivalent	Annual		Gross available energy	
+
+gross energy by product12
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:	
+Nuclear heat							Thousand tonnes of oil equivalent	Annual		Gross available energy
+
+____________________________________________________________________________________________________________________________________________________________
+
+households energy use by fuel type1
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:	
+Total								Thousand tonnes of oil equivalent		Annual		Final consumption - households - energy use
+
+households energy use by fuel type2
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:	
+Natural gas							Thousand tonnes of oil equivalent		Annual		Final consumption - households - energy use	
+
+households energy use by fuel type3
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:
+Electricity							Thousand tonnes of oil equivalent		Annual		Final consumption - households - energy use	
+
+households energy use by fuel type4
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:
+Primary solid biofuels						Thousand tonnes of oil equivalent		Annual		Final consumption - households - energy use	
+
+households energy use by fuel type5
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:
+Gas oil and diesel oil (excluding biofuel portion)		Thousand tonnes of oil equivalent		Annual		Final consumption - households - energy use	
+
+households energy use by fuel type6
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:
+Heat								Thousand tonnes of oil equivalent		Annual		Final consumption - households - energy use	
+
+households energy use by fuel type7
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:
+Solid fossil fuels						Thousand tonnes of oil equivalent		Annual		Final consumption - households - energy use	
+	
+households energy use by fuel type8
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:
+Liquefied petroleum gases					Thousand tonnes of oil equivalent		Annual		Final consumption - households - energy use	
+
+households energy use by fuel type9
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:
+Ambient heat (heat pumps)					Thousand tonnes of oil equivalent		Annual		Final consumption - households - energy use	
+
+households energy use by fuel type10
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:
+Other kerosene							Thousand tonnes of oil equivalent		Annual		Final consumption - households - energy use	
+
+households energy use by fuel type11
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:
+Solar thermal							Thousand tonnes of oil equivalent		Annual		Final consumption - households - energy use	
+	
+____________________________________________________________________________________________________________________________________________________________
+
+industry energy use by fuel type1
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:
+Solid fossil fuels						Thousand tonnes of oil equivalent		Annual		Final consumption - industry sector - energy use
+
+industry energy use by fuel type2
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:	
+Manufactured gases						Thousand tonnes of oil equivalent		Annual		Final consumption - industry sector - energy use
+
+industry energy use by fuel type3
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:	
+Electricity							Thousand tonnes of oil equivalent		Annual		Final consumption - industry sector - energy use
+
+industry energy use by fuel type4
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:	
+Natural gas							Thousand tonnes of oil equivalent		Annual		Final consumption - industry sector - energy use	
+
+industry energy use by fuel type5
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:
+Heat								Thousand tonnes of oil equivalent		Annual		Final consumption - industry sector - energy use	
+
+<EMPTY_SHEET> *skipped*
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:
+Nuclear heat							Thousand tonnes of oil equivalent		Annual		Final consumption - industry sector - energy use	
+
+industry energy use by fuel type6
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:
+Oil and petroleum products (excluding biofuel portion)		Thousand tonnes of oil equivalent		Annual		Final consumption - industry sector - energy use
+
+industry energy use by fuel type7
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:	
+Peat and peat products						Thousand tonnes of oil equivalent		Annual		Final consumption - industry sector - energy use
+
+industry energy use by fuel type8
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:	
+Renewables and biofuels						Thousand tonnes of oil equivalent		Annual		Final consumption - industry sector - energy use	
+
+industry energy use by fuel type9
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:
+Oil shale and oil sands						Thousand tonnes of oil equivalent		Annual		Final consumption - industry sector - energy use
+
+industry energy use by fuel type10
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:	
+Total								Thousand tonnes of oil equivalent		Annual		Final consumption - industry sector - energy use	
+
+industry energy use by fuel type11
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:
+Non-renewable waste						Thousand tonnes of oil equivalent		Annual		Final consumption - industry sector - energy use	
+
+____________________________________________________________________________________________________________________________________________________________
+
+non-energy consumption by fueltype1
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:	
+Solid fossil fuels						Thousand tonnes of oil equivalent		Annual		Final consumption - non-energy use
+
+non-energy consumption by fueltype2
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:		
+Manufactured gases						Thousand tonnes of oil equivalent		Annual		Final consumption - non-energy use	
+
+<EMPTY_SHEET> *skipped sheet*
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:	
+Electricity							Thousand tonnes of oil equivalent		Annual		Final consumption - non-energy use	
+
+non-energy consumption by fueltype3
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:	
+Natural gas							Thousand tonnes of oil equivalent		Annual		Final consumption - non-energy use
+
+<EMPTY_SHEET> *skipped sheet*
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:		
+Heat								Thousand tonnes of oil equivalent		Annual		Final consumption - non-energy use	
+
+<EMPTY_SHEET> *skipped sheet*
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:	
+Nuclear heat							Thousand tonnes of oil equivalent		Annual		Final consumption - non-energy use
+
+non-energy consumption by fueltype4
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:		
+Oil and petroleum products (excluding biofuel portion)		Thousand tonnes of oil equivalent		Annual		Final consumption - non-energy use
+
+non-energy consumption by fueltype5
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:		
+Peat and peat products						Thousand tonnes of oil equivalent		Annual		Final consumption - non-energy use	
+
+non-energy consumption by fueltype6
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:	
+Renewables and biofuels						Thousand tonnes of oil equivalent		Annual		Final consumption - non-energy use
+
+non-energy consumption by fueltype7
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:		
+Oil shale and oil sands						Thousand tonnes of oil equivalent		Annual		Final consumption - non-energy use
+
+non-energy consumption by fueltype8
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:		
+Total								Thousand tonnes of oil equivalent		Annual		Final consumption - non-energy use
+
+<EMPTY_SHEET> *skipped sheet*
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:		
+Non-renewable waste						Thousand tonnes of oil equivalent		Annual		Final consumption - non-energy use	
+
+____________________________________________________________________________________________________________________________________________________________
+
+percent market share of largest electricity generator1
+Unit of measure:	Products:	Timeframe:	Energy indicator:	
+Percentage		Infrastructure	Annual		Market share of the largest generator in the electricity market - as a percentage of the total generation	
+____________________________________________________________________________________________________________________________________________________________
+
+percentage of renewable energy1
+Unit of measure:		Indicators for EU2020 project:		Timeframe:
+Percentage			Share of renewables			Annual
+____________________________________________________________________________________________________________________________________________________________
+
+road transport energy usage by fueltype1
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:	
+Total								Thousand tonnes of oil equivalent		Annual		Final consumption - transport sector - road - energy use
+
+road transport energy usage by fueltype2
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:		
+Gas oil and diesel oil (excluding biofuel portion)		Thousand tonnes of oil equivalent		Annual		Final consumption - transport sector - road - energy use
+
+road transport energy usage by fueltype3
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:		
+Motor gasoline (excluding biofuel portion)			Thousand tonnes of oil equivalent		Annual		Final consumption - transport sector - road - energy use
+
+road transport energy usage by fueltype4
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:		
+Blended biodiesels						Thousand tonnes of oil equivalent		Annual		Final consumption - transport sector - road - energy use
+
+road transport energy usage by fueltype5
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:		
+Liquefied petroleum gases					Thousand tonnes of oil equivalent		Annual		Final consumption - transport sector - road - energy use
+
+road transport energy usage by fueltype6
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:		
+Blended biogasoline						Thousand tonnes of oil equivalent		Annual		Final consumption - transport sector - road - energy use
+
+road transport energy usage by fueltype7
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:		
+Natural gas							Thousand tonnes of oil equivalent		Annual		Final consumption - transport sector - road - energy use
+
+road transport energy usage by fueltype8
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:		
+Pure biodiesels							Thousand tonnes of oil equivalent		Annual		Final consumption - transport sector - road - energy use
+
+road transport energy usage by fueltype9
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:		
+Biogases							Thousand tonnes of oil equivalent		Annual		Final consumption - transport sector - road - energy use
+
+road transport energy usage by fueltype10
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:		
+Electricity							Thousand tonnes of oil equivalent		Annual		Final consumption - transport sector - road - energy use
+
+road transport energy usage by fueltype11
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:		
+Pure biogasoline						Thousand tonnes of oil equivalent		Annual		Final consumption - transport sector - road - energy use
+
+road transport energy usage by fueltype12
+Standard international energy product classification (SIEC):	Unit of measure:				Timeframe:	Energy balance:		
+Other liquid biofuels						Thousand tonnes of oil equivalent		Annual		Final consumption - transport sector - road - energy use	
+
+____________________________________________________________________________________________________________________________________________________________
+
+services energy use by fuel type1
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:	
+Solid fossil fuels						Thousand tonnes of oil equivalent	Annual		Final consumption -commercial and public services - energy use
+
+services energy use by fuel type2
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:	
+Manufactured gases						Thousand tonnes of oil equivalent	Annual		Final consumption -commercial and public services - energy use
+
+services energy use by fuel type3
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Electricity							Thousand tonnes of oil equivalent	Annual		Final consumption -commercial and public services - energy use
+
+services energy use by fuel type4
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Natural gas							Thousand tonnes of oil equivalent	Annual		Final consumption -commercial and public services - energy use
+
+services energy use by fuel type5
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Heat								Thousand tonnes of oil equivalent	Annual		Final consumption -commercial and public services - energy use
+
+<EMPTY_SHEET> *skipped sheet*
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Nuclear heat							Thousand tonnes of oil equivalent	Annual		Final consumption -commercial and public services - energy use
+
+services energy use by fuel type6
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Oil and petroleum products (excluding biofuel portion)		Thousand tonnes of oil equivalent	Annual		Final consumption -commercial and public services - energy use
+
+services energy use by fuel type7
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Peat and peat products						Thousand tonnes of oil equivalent	Annual		Final consumption -commercial and public services - energy use
+
+services energy use by fuel type8
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Renewables and biofuels						Thousand tonnes of oil equivalent	Annual		Final consumption -commercial and public services - energy use
+
+services energy use by fuel type9
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Oil shale and oil sands						Thousand tonnes of oil equivalent	Annual		Final consumption -commercial and public services - energy use
+
+services energy use by fuel type10
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Total								Thousand tonnes of oil equivalent	Annual		Final consumption -commercial and public services - energy use
+
+services energy use by fuel type11
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Non-renewable waste						Thousand tonnes of oil equivalent	Annual		Final consumption -commercial and public services - energy use
+
+____________________________________________________________________________________________________________________________________________________________
+
+total energy supply by product1
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Total								Thousand tonnes of oil equivalent	Annual		Total energy supply
+
+total energy supply by product2
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Solid fossil fuels						Thousand tonnes of oil equivalent	Annual		Total energy supply
+
+total energy supply by product3
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Manufactured gases						Thousand tonnes of oil equivalent	Annual		Total energy supply
+
+total energy supply by product4
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Peat and peat products						Thousand tonnes of oil equivalent	Annual		Total energy supply
+
+total energy supply by product5
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Oil shale and oil sands						Thousand tonnes of oil equivalent	Annual		Total energy supply
+
+total energy supply by product6
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Natural gas							Thousand tonnes of oil equivalent	Annual		Total energy supply
+
+total energy supply by product7
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Oil and petroleum products (excluding biofuel portion)		Thousand tonnes of oil equivalent	Annual		Total energy supply
+
+total energy supply by product8
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Renewables and biofuels						Thousand tonnes of oil equivalent	Annual		Total energy supply
+
+total energy supply by product9
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Non-renewable waste						Thousand tonnes of oil equivalent	Annual		Total energy supply
+
+total energy supply by product10
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Electricity							Thousand tonnes of oil equivalent	Annual		Total energy supply
+
+total energy supply by product11
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Heat								Thousand tonnes of oil equivalent	Annual		Total energy supply
+
+total energy supply by product12
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Nuclear heat							Thousand tonnes of oil equivalent	Annual		Total energy supply
+
+____________________________________________________________________________________________________________________________________________________________
+
+transport energy use by fuel type1 
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Total								Thousand tonnes of oil equivalent	Annual		Final consumption - transport sector - energy use
+
+transport energy use by fuel type2 
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Gas oil and diesel oil (excluding biofuel portion)		Thousand tonnes of oil equivalent	Annual		Final consumption - transport sector - energy use
+
+transport energy use by fuel type3 
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Motor gasoline (excluding biofuel portion)			Thousand tonnes of oil equivalent	Annual		Final consumption - transport sector - energy use
+
+transport energy use by fuel type4 
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Blended biodiesels						Thousand tonnes of oil equivalent	Annual		Final consumption - transport sector - energy use
+
+transport energy use by fuel type5 
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Kerosene-type jet fuel (excluding biofuel portion)		Thousand tonnes of oil equivalent	Annual		Final consumption - transport sector - energy use
+
+transport energy use by fuel type6 
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Liquefied petroleum gases					Thousand tonnes of oil equivalent	Annual		Final consumption - transport sector - energy use
+
+transport energy use by fuel type7 
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Electricity							Thousand tonnes of oil equivalent	Annual		Final consumption - transport sector - energy use
+
+transport energy use by fuel type8 
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Natural gas							Thousand tonnes of oil equivalent	Annual		Final consumption - transport sector - energy use
+
+transport energy use by fuel type9 
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Blended biogasoline						Thousand tonnes of oil equivalent	Annual		Final consumption - transport sector - energy use
+
+transport energy use by fuel type10 
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Fuel oil							Thousand tonnes of oil equivalent	Annual		Final consumption - transport sector - energy use
+
+transport energy use by fuel type11 
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Pure biodiesels							Thousand tonnes of oil equivalent	Annual		Final consumption - transport sector - energy use
+
+transport energy use by fuel type12 
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Biogases							Thousand tonnes of oil equivalent	Annual		Final consumption - transport sector - energy use
+
+transport energy use by fuel type13 
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Pure biogasoline						Thousand tonnes of oil equivalent	Annual		Final consumption - transport sector - energy use
+
+transport energy use by fuel type14 
+Standard international energy product classification (SIEC):	Unit of measure:			Timeframe:	Energy balance:
+Other liquid biofuels						Thousand tonnes of oil equivalent	Annual		Final consumption - transport sector - energy use
+
+____________________________________________________________________________________________________________________________________________________________
+
