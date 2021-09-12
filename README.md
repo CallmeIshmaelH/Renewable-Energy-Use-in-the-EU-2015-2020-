@@ -37,7 +37,7 @@ The aim here is to identify:
 This repo includes:  
 1. Individual csv files converted from the original xls sheets from the Eurostat Energy Database (https://ec.europa.eu/eurostat/data/database?node_code=nrg_bal_c)  
 2. Cleaned csv files  
-3. A jupyter notebook for cleaning and transforming data (Renewable_Energy_Performance_EU_cleaning.ipynb)  
+3. A jupyter notebook for cleaning and transforming data (Uncleanedcsvs.zip/Renewable_Energy_Performance_EU_cleaning.ipynb)  
 4. A sql dump for generating a small database of the tables used for EDA.
 5. A jupyter notebook for exploratory data analysis and preliminary visualization (Renewable_Energy_statistics_EDA.ipynb)  
 6. A collection of csv files for EDA and visualization (EDA Notebook folder) 
